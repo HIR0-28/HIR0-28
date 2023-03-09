@@ -11,11 +11,11 @@
   <a href="https://github.com/HIR0-728">
     <img height="20" src="https://img.shields.io/github/followers/HIR0-728?label=follow&logo=github&style=flat" />
   </a>  
-  <a href="http://qiita.com/HIR0">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/HIR0/posts.svg" />
+  <a href="http://qiita.com/HIR0-728">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/HIR0-728/posts.svg" />
   </a>
-  <a href="http://qiita.com/HIR0">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/HIR0/contributions.svg" />
+  <a href="http://qiita.com/HIR0-728">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/HIR0-728/contributions.svg" />
   </a>
 </p>
 
