@@ -5,9 +5,9 @@
   <a href="https://github.com/HIR0-728/HIR0-728/">
     <img src="https://komarev.com/ghpvc/?username=HIR0-728" alt="HIR0-728" />
   </a>
-  <!-- <a href="http://twitter.com/username_">
-    <img height="20" src="https://img.shields.io/twitter/follow/username_?label=Twitter&logo=twitter&style=flat" />
-  </a> -->
+  <a href="http://twitter.com/hir0_728">
+    <img height="20" src="https://img.shields.io/twitter/follow/hir0_728?label=Twitter&logo=twitter&style=flat" />
+  </a>
   <a href="https://github.com/HIR0-728">
     <img height="20" src="https://img.shields.io/github/followers/HIR0-728?label=follow&logo=github&style=flat" />
   </a>  
@@ -95,7 +95,7 @@ One day, to create products that help animals through the power of IT.
 
 #### :eyes:Contact me
 
-<!-- [<img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&style=popout">](http://twitter.com/username) -->
+[<img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&style=popout">](http://twitter.com/hir0_728)
 [<img alt="Mail" src="https://img.shields.io/badge/-Gmail-D14836.svg?logo=gmail&style=popout">](mailto:air0ta.working@gmail.com)
 
 
